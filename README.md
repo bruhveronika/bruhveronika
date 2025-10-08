@@ -13,7 +13,7 @@
 ---
 
 ### ⭐️ Мои проекты
-- [Предсказание отклика клиентов на маркетинговую кампанию](https://github.com/bruhveronika/marketing-response-prediction)  
+- [Предсказание отклика клиентов на маркетинговую кампанию](https://github.com/bruhveronika/marketing-campaign-prediction)  
   _Классификация клиентов по вероятности отклика, анализ признаков и визуализация результатов._
 
 - [Анализ сети корпоративной переписки Enron](https://github.com/bruhveronika/enron-email-network-analysis)  
