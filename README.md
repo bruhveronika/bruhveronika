@@ -20,7 +20,7 @@
 ---
 
 ### Как со мной связаться
-- ✉️ nikapyasetskaya2014@gmail.com
+✉️ nikapyasetskaya2014@gmail.com
 
 ---
 *Спасибо, что заглянули!*
