@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет! 👋 Я Вероника
 
-<!--
-**bruhveronika/bruhveronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий специалист в области **Data Science** и аналитики данных.  
+Учусь работать с Python, pandas, визуализацией и машинным обучением, а также создаю проекты для портфолио.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Мой стек
+- **Языки:** R, Python, SQL  
+- **Библиотеки:** pandas, numpy, matplotlib, seaborn, scikit-learn и многие другие 
+- **Инструменты:** Jupyter Notebook, RStudio, GitHub  
+
+---
+
+### 📊 Мои проекты
+- [Анализ данных Airbnb](https://github.com/bruhveronika/airbnb-analysis) — исследование цен и факторов, влияющих на аренду  
+- [Классификация отзывов](https://github.com/bruhveronika/reviews-classifier) — обработка текста и машинное обучение  
+- [Продажи и визуализация](https://github.com/bruhveronika/sales-dashboard) — интерактивный дашборд продаж  
+
+---
+
+### 📬 Как со мной связаться
+- ✉️ Email: nikapyasetskaya2014@gmail.com
+
+---
+
+⭐️ *Спасибо, что заглянули!*
