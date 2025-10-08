@@ -13,9 +13,13 @@
 ---
 
 ### ⭐️ Мои проекты
-- [Анализ данных Airbnb](https://github.com/bruhveronika/airbnb-analysis) — исследование цен и факторов, влияющих на аренду  
-- [Классификация отзывов](https://github.com/bruhveronika/reviews-classifier) — обработка текста и машинное обучение  
-- [Продажи и визуализация](https://github.com/bruhveronika/sales-dashboard) — интерактивный дашборд продаж  
+- [Предсказание отклика клиентов на маркетинговую кампанию (R)](https://github.com/bruhveronika/marketing-response-prediction)  
+  _Классификация клиентов по вероятности отклика, анализ признаков и визуализация результатов._
+
+- [Анализ сети корпоративной переписки Enron (R)](https://github.com/bruhveronika/enron-email-network-analysis)  
+  _Сетевой анализ структуры коммуникаций сотрудников, выявление ключевых узлов и тематических кластеров._
+
+
 
 ---
 
